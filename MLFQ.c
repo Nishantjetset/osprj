@@ -4,13 +4,7 @@ using namespace std;
 
  
 
-struct info current;
-typedef struct info P_d ;
-
-bool idsort(const P_d& x , const P_d& y)
-{
-	return x.proc_id < y.proc_id;
-}
+ 
 
 bool arrivalsort( const P_d& x ,const P_d& y)
 {
