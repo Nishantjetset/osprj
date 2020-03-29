@@ -7,7 +7,7 @@ struct info
 	int proc_num,proc_id,proc_arrival;
 	int proc_burst, Priority, proc_Finish, proc_Remaining, proc_Waiting;
 	int proc_Start, Reproc_Start;
-
+//cjdslkcndsjndljnldc
 };
 
 struct info current;
